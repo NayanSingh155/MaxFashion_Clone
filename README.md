@@ -2,8 +2,8 @@
 Maxfashion is an online e-commerce website for clothes. 
 ## Getting Started
 1. Live Link :- https://chief-shape-6531.vercel.app/
-2. 
-Hello everyone, this is a Readme for my construct week project that has been completed successfully with in 5 days. It is a solo project.
+
+**Hello everyone, this is a Readme for my construct week project that has been completed successfully with in 5 days. It is a solo project.**
 
 
 
